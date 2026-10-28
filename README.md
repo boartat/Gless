@@ -8,7 +8,9 @@
 
 또한 본 앱은 사용자 추적, 분석 도구, 또는 제3자 데이터 수집 서비스를 사용하지 않습니다.
 
-개발자: 우리집은저지클럽
+개발자: OVQO
+
+문의: ouminy@naver.com
 
 
 [Gless Privacy Policy]
@@ -19,4 +21,6 @@ All data, including keyboard input, is processed locally on the user's device an
 
 This app does not use analytics, tracking, or any third-party services that collect user data.
 
-Developer: 우리집은저지클럽
+Developer: OVQO
+
+Contact: ouminy@naver.com
